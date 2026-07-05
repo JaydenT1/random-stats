@@ -527,12 +527,12 @@
                 "date": "18 June 2026",
                 "stadium": "Los Angeles Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["74',90' Johan Manzambi", "84' Ruben Vargas", "90+7' Granit Xhaka"],
+                    ["90+3' Ermin Mahmic"]
                 ],
                 "redCards": [
                     [],
-                    []
+                    ["80' Tarik Muharemovic"]
                 ]
             },
             {
@@ -542,12 +542,12 @@
                 "date": "18 June 2026",
                 "stadium": "BC Place Vancouver",
                 "goals": [
-                    [],
+                    ["16' Cyle Larin", "29',45+3',90+2' Jonathan David", "64' Nathan Saliba", "(OG) 75' Mohamed Manai"],
                     []
                 ],
                 "redCards": [
                     [],
-                    []
+                    ["33' Homam Ahmed", "51' Assim Madibo"]
                 ]
             },
             {
@@ -557,7 +557,7 @@
                 "date": "18 June 2026",
                 "stadium": "Guadalajara Stadium",
                 "goals": [
-                    [],
+                    ["50' Luis Romo"],
                     []
                 ],
                 "redCards": [
@@ -572,7 +572,7 @@
                 "date": "19 June 2026",
                 "stadium": "Seattle Stadium",
                 "goals": [
-                    [],
+                    ["(OG) 11' Cameron Burgess", "43' Alex Freeman"],
                     []
                 ],
                 "redCards": [
@@ -588,7 +588,7 @@
                 "stadium": "Boston Stadium",
                 "goals": [
                     [],
-                    []
+                    ["2' Ismael Saibari"]
                 ],
                 "redCards": [
                     [],
@@ -602,7 +602,7 @@
                 "date": "19 June 2026",
                 "stadium": "Philadelphia Stadium",
                 "goals": [
-                    [],
+                    ["23',36' Matheus Cunha", "45+3' Vinicius Junior"],
                     []
                 ],
                 "redCards": [
@@ -618,11 +618,11 @@
                 "stadium": "San Francisco Bay Area Stadium",
                 "goals": [
                     [],
-                    []
+                    ["2' Matias Galarza"]
                 ],
                 "redCards": [
                     [],
-                    []
+                    ["45+3' Miguel Almiron"]
                 ]
             },
             {
@@ -632,8 +632,8 @@
                 "date": "20 June 2026",
                 "stadium": "Houston Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["5',17' Brian Brobbey", "47',54' Cody Gakpo", "89' Crysencio Summerville"],
+                    ["59' Anthony Elanga"]
                 ],
                 "redCards": [
                     [],
@@ -647,8 +647,8 @@
                 "date": "20 June 2026",
                 "stadium": "Toronto Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["68',90+4' Deniz Undav"],
+                    ["30' Franck Kessie"]
                 ],
                 "redCards": [
                     [],
@@ -678,7 +678,7 @@
                 "stadium": "Monterrey Stadium",
                 "goals": [
                     [],
-                    []
+                    ["4' Daichi Kamada", "31',83' Ayase Ueda", "69' Junya Ito"]
                 ],
                 "redCards": [
                     [],
@@ -692,7 +692,7 @@
                 "date": "21 June 2026",
                 "stadium": "Atlanta Stadium",
                 "goals": [
-                    [],
+                    ["10' Lamine Yamal", "21',24' Mikel Oyarzabal", "(OG) 49' Hassan Altambakti"],
                     []
                 ],
                 "redCards": [
@@ -722,8 +722,8 @@
                 "date": "21 June 2026",
                 "stadium": "Miami Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["44' Maxi Araujo", "45+6' Agustin Canobbio"],
+                    ["21' Kevin Pina", "61' Helio Varela"]
                 ],
                 "redCards": [
                     [],
@@ -737,8 +737,8 @@
                 "date": "21 June 2026",
                 "stadium": "BC Place Vancouver",
                 "goals": [
-                    [],
-                    []
+                    ["15' Finn Surman"],
+                    ["58' Mostafa Zico", "67' Mohamed Salah", "82' Trezeguet"]
                 ],
                 "redCards": [
                     [],
@@ -752,7 +752,7 @@
                 "date": "22 June 2026",
                 "stadium": "Dallas Stadium",
                 "goals": [
-                    [],
+                    ["38',90+5' Lionel Messi"],
                     []
                 ],
                 "redCards": [
@@ -767,7 +767,7 @@
                 "date": "22 June 2026",
                 "stadium": "Philadelphia Stadium",
                 "goals": [
-                    [],
+                    ["14',54' Kylian Mbappe", "66' Ousmane Dembele"],
                     []
                 ],
                 "redCards": [
@@ -782,8 +782,8 @@
                 "date": "22 June 2026",
                 "stadium": "New York/New Jersey Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["43' Marcus Holmgren Pedersen", "48',58' Erling Haaland"],
+                    ["53',90+3' Ismaila Sarr"]
                 ],
                 "redCards": [
                     [],
@@ -797,8 +797,8 @@
                 "date": "22 June 2026",
                 "stadium": "San Francisco Bay Area Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["36' Nizar Alrashdan"],
+                    ["69' Nadhir Benbouali", "82' Amine Gouiri"]
                 ],
                 "redCards": [
                     [],
@@ -812,7 +812,7 @@
                 "date": "23 June 2026",
                 "stadium": "Houston Stadium",
                 "goals": [
-                    [],
+                    ["6',39' Cristiano Ronaldo", "17' Nuno Mendes", "(OG) 60' Abduvohid Nematov", "87' Rafael Leao"],
                     []
                 ],
                 "redCards": [
@@ -843,7 +843,7 @@
                 "stadium": "Toronto Stadium",
                 "goals": [
                     [],
-                    []
+                    ["54' Ante Budimir"]
                 ],
                 "redCards": [
                     [],
@@ -857,7 +857,7 @@
                 "date": "23 June 2026",
                 "stadium": "Guadalajara Stadium",
                 "goals": [
-                    [],
+                    ["76' Daniel Munoz"],
                     []
                 ],
                 "redCards": [
@@ -872,8 +872,8 @@
                 "date": "24 June 2026",
                 "stadium": "BC Place Vancouver",
                 "goals": [
-                    [],
-                    []
+                    ["46' Ruben Vargas", "57' Johan Manzambi"],
+                    ["76' Promise David"]
                 ],
                 "redCards": [
                     [],
@@ -887,8 +887,8 @@
                 "date": "24 June 2026",
                 "stadium": "Seattle Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["29' Kerim Alajbegovic", "(OG) 34' Mahmoud Abunada", "80' Ermin Mahmic"],
+                    ["42' Hassan Alhaydos"]
                 ],
                 "redCards": [
                     [],
@@ -903,7 +903,7 @@
                 "stadium": "Miami Stadium",
                 "goals": [
                     [],
-                    []
+                    ["7',45+3' Vinicius Junior", "60' Matheus Cunha"]
                 ],
                 "redCards": [
                     [],
@@ -917,8 +917,8 @@
                 "date": "24 June 2026",
                 "stadium": "Atlanta Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["39' Achraf Hakimi", "45+1' Ismael Saibari", "78' Soufiane Rahimi", "89' Gessime Yassine"],
+                    ["(OG) 10' Yassine Bounou", "43' Wilson Isidor"]
                 ],
                 "redCards": [
                     [],
@@ -933,7 +933,7 @@
                 "stadium": "Mexico City Stadium",
                 "goals": [
                     [],
-                    []
+                    ["55' Mateo Chavez", "61' Julian Quinones", "90+4' Alvaro Fidalgo"]
                 ],
                 "redCards": [
                     [],
@@ -947,7 +947,7 @@
                 "date": "24 June 2026",
                 "stadium": "Monterrey Stadium",
                 "goals": [
-                    [],
+                    ["63' Thapelo Maseko"],
                     []
                 ],
                 "redCards": [
@@ -963,7 +963,7 @@
                 "stadium": "Philadelphia Stadium",
                 "goals": [
                     [],
-                    []
+                    ["7',64' Nicolas Pepe"]
                 ],
                 "redCards": [
                     [],
@@ -977,8 +977,8 @@
                 "date": "25 June 2026",
                 "stadium": "New York/New Jersey Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["9' Nilson Angulo", "77' Gonzalo Plata"],
+                    ["2' Leroy Sane"]
                 ],
                 "redCards": [
                     [],
@@ -992,8 +992,8 @@
                 "date": "25 June 2026",
                 "stadium": "Dallas Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["56' Daizen Maeda"],
+                    ["62' Anthony Elanga"]
                 ],
                 "redCards": [
                     [],
@@ -1007,8 +1007,8 @@
                 "date": "25 June 2026",
                 "stadium": "Kansas City Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["54' Hazem Mastouri"],
+                    ["(OG) 3' Ellyes Skhiri", "7' Brian Brobbey", "62' Jan Paul Van Hecke"]
                 ],
                 "redCards": [
                     [],
@@ -1022,8 +1022,8 @@
                 "date": "25 June 2026",
                 "stadium": "Los Angeles Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["10' Arda Guler", "31' Baris Alper Yilmaz", "90+8' Kaan Ayhan"],
+                    ["3' Auston Trusty", "49' Sebastian Berhalter"]
                 ],
                 "redCards": [
                     [],
@@ -1052,8 +1052,8 @@
                 "date": "26 June 2026",
                 "stadium": "Boston Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["21' Thelo Aasgaard"],
+                    ["7',20',32' Ousmane Dembele", "90+4' Desire Doue"]
                 ],
                 "redCards": [
                     [],
@@ -1067,12 +1067,12 @@
                 "date": "26 June 2026",
                 "stadium": "Toronto Stadium",
                 "goals": [
-                    [],
+                    ["4' Habib Diarra", "56' Ismaila Sarr", "59',71' Pape Gueye", "82' Iliman Ndiaye"],
                     []
                 ],
                 "redCards": [
                     [],
-                    []
+                    ["13' Rebin Sulaka"]
                 ]
             },
             {
@@ -1098,10 +1098,10 @@
                 "stadium": "Guadalajara Stadium",
                 "goals": [
                     [],
-                    []
+                    ["42' Alex Baena"]
                 ],
                 "redCards": [
-                    [],
+                    ["90+4' Agustin Canobbio"],
                     []
                 ]
             },
@@ -1112,8 +1112,8 @@
                 "date": "26 June 2026",
                 "stadium": "Seattle Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["5' Mahmoud Saber"],
+                    ["14' Ramin Rezaeian"]
                 ],
                 "redCards": [
                     [],
@@ -1127,8 +1127,8 @@
                 "date": "26 June 2026",
                 "stadium": "BC Place Vancouver",
                 "goals": [
-                    [],
-                    []
+                    ["84' Elijah Just"],
+                    ["28',50' Leandro Trossard", "66' Kevin De Bruyne", "86' Romelu Lukaku", "90+4' Alexis Saelemaekers"]
                 ],
                 "redCards": [
                     [],
@@ -1143,7 +1143,7 @@
                 "stadium": "New York/New Jersey Stadium",
                 "goals": [
                     [],
-                    []
+                    ["62' Jude Bellingham", "67' Harry Kane"]
                 ],
                 "redCards": [
                     [],
@@ -1157,8 +1157,8 @@
                 "date": "27 June 2026",
                 "stadium": "Philadelphia Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["31' Petar Sucic", "83' Nikola Vlasic"],
+                    ["73' Derrick Luckassen"]
                 ],
                 "redCards": [
                     [],
@@ -1187,8 +1187,8 @@
                 "date": "27 June 2026",
                 "stadium": "Atlanta Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["(P) 68',90+1' Yoane Wissa", "78' Fiston Mayele"],
+                    ["10' Eldor Shomurodov"]
                 ],
                 "redCards": [
                     [],
@@ -1202,8 +1202,8 @@
                 "date": "27 June 2026",
                 "stadium": "Kansas City Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["45' Rafik Belghali", "60',90+3' Riyad Mahrez"],
+                    ["28' Marko Arnautovic", "55' Marcel Sabitzer", "90+6' Sasa Kalajdzic"]
                 ],
                 "redCards": [
                     [],
@@ -1217,8 +1217,8 @@
                 "date": "27 June 2026",
                 "stadium": "Dallas Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["55' Mousa Altamari"],
+                    ["19' Giovani Lo Celso", "(P) 31' Lautaro Martinez", "80' Lionel Messi"]
                 ],
                 "redCards": [
                     [],
@@ -1236,7 +1236,7 @@
                 "stadium": "Los Angeles Stadium",
                 "goals": [
                     [],
-                    []
+                    ["90+2' Stephen Eustaquio"]
                 ],
                 "redCards": [
                     [],
@@ -1251,8 +1251,8 @@
                 "stage": "32",
                 "stadium": "Houston Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["56' Casemiro", "90+5' Gabriel Martinelli"],
+                    ["29' Kaishu Sano"]
                 ],
                 "redCards": [
                     [],
@@ -1267,8 +1267,8 @@
                 "stage": "32",
                 "stadium": "Boston Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["54' Kai Havertz"],
+                    ["42' Julio Enciso"]
                 ],
                 "redCards": [
                     [],
@@ -1283,8 +1283,8 @@
                 "stage": "32",
                 "stadium": "Monterrey Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["72' Cody Gakpo"],
+                    ["90+1' Issa Diop"]
                 ],
                 "redCards": [
                     [],
@@ -1299,8 +1299,8 @@
                 "stage": "32",
                 "stadium": "Dallas Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["74' Amad Diallo"],
+                    ["39' Antonio Nusa", "86' Erling Haaland"]
                 ],
                 "redCards": [
                     [],
@@ -1315,7 +1315,7 @@
                 "stage": "32",
                 "stadium": "New York/New Jersey Stadium",
                 "goals": [
-                    [],
+                    ["45',74' Kylian Mbappe", "53' Bradley Barcola"],
                     []
                 ],
                 "redCards": [
@@ -1331,12 +1331,12 @@
                 "stage": "32",
                 "stadium": "Mexico City Stadium",
                 "goals": [
-                    [],
+                    ["22' Julian Quinones", "31' Raul Jimenez"],
                     []
                 ],
                 "redCards": [
                     [],
-                    []
+                    ["90+5' Piero Hincapie"]
                 ]
             },
             {
@@ -1347,8 +1347,8 @@
                 "stage": "32",
                 "stadium": "Atlanta Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["75',86' Harry Kane"],
+                    ["7' Brian Cipenga"]
                 ],
                 "redCards": [
                     [],
@@ -1363,8 +1363,8 @@
                 "stage": "32",
                 "stadium": "Seattle Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["86' Romelu Lukaku", "89',(P)120+5' Youri Tielemans"],
+                    ["24' Habib Diarra", "51' Ismaila Sarr"]
                 ],
                 "redCards": [
                     [],
@@ -1379,11 +1379,11 @@
                 "stage": "32",
                 "stadium": "San Francisco Bay Area Stadium",
                 "goals": [
-                    [],
+                    ["45' Folarin Balogun", "82' Malik Tillman"],
                     []
                 ],
                 "redCards": [
-                    [],
+                    ["64' Folarin Balogun"],
                     []
                 ]
             },
@@ -1395,7 +1395,7 @@
                 "stage": "32",
                 "stadium": "Los Angeles Stadium",
                 "goals": [
-                    [],
+                    ["36',89' Mikel Oyarzabal", "66' Pedro Porro"],
                     []
                 ],
                 "redCards": [
@@ -1411,8 +1411,8 @@
                 "stage": "32",
                 "stadium": "Toronto Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["(P) 68' Cristiano Ronaldo", "90+4' Goncalo Ramos"],
+                    ["53' Ivan Perisic"]
                 ],
                 "redCards": [
                     [],
@@ -1427,7 +1427,7 @@
                 "stage": "32",
                 "stadium": "BC Place Vancouver",
                 "goals": [
-                    [],
+                    ["10' Breel Embolo", "46' Dan Ndoye"],
                     []
                 ],
                 "redCards": [
@@ -1443,8 +1443,8 @@
                 "stage": "32",
                 "stadium": "Dallas Stadium",
                 "goals": [
-                    [],
-                    []
+                    ["(OG) 55' Mohamed Hany"],
+                    ["13' Emam Ashour"]
                 ],
                 "redCards": [
                     [],
@@ -1477,6 +1477,38 @@
                 "goals": [
                     ["14' Jhon Arias"],
                     []
+                ],
+                "redCards": [
+                    [],
+                    []
+                ]
+            },
+            {
+                "team1": "Canada",
+                "team2": "Morocco",
+                "score": "0-3",
+                "date": "4 July 2026",
+                "stage": "16",
+                "stadium": "Houston Stadium",
+                "goals": [
+                    [],
+                    ["50',82' Azzedine Ounahi", "90+8' Soufiane Rahimi"]
+                ],
+                "redCards": [
+                    [],
+                    []
+                ]
+            },
+            {
+                "team1": "Paraguay",
+                "team2": "France",
+                "score": "0-1",
+                "date": "4 July 2026",
+                "stage": "16",
+                "stadium": "Philadelphia Stadium",
+                "goals": [
+                    [],
+                    ["(P)70' Kylian Mbappe"]
                 ],
                 "redCards": [
                     [],
@@ -1538,8 +1570,8 @@
         "Argentina"
     ],
     "qualified8": [
-        "null",
-        "null",
+        "Morocco",
+        "France",
         "null",
         "null",
         "null",
