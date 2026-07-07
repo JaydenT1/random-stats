@@ -1514,6 +1514,70 @@
                     [],
                     []
                 ]
+            },
+            {
+                "team1": "Brazil",
+                "team2": "Norway",
+                "score": "1-2",
+                "date": "5 July 2026",
+                "stage": "16",
+                "stadium": "New York/New Jersey Stadium",
+                "goals": [
+                    ["(P)90+10' Neymar"],
+                    ["79',90' Erling Haaland"]
+                ],
+                "redCards": [
+                    [],
+                    []
+                ]
+            },
+            {
+                "team1": "Mexico",
+                "team2": "England",
+                "score": "2-3",
+                "date": "5 July 2026",
+                "stage": "16",
+                "stadium": "Mexico City Stadium",
+                "goals": [
+                    ["42' Julián Quiñones", "(P)69' Raúl Jiménez"],
+                    ["36',38' Jude Bellingham", "(P)60' Harry Kane"]
+                ],
+                "redCards": [
+                    [],
+                    ["54' Jarell Quansah"]
+                ]
+            },
+            {
+                "team1": "Portugal",
+                "team2": "Spain",
+                "score": "0-1",
+                "date": "6 July 2026",
+                "stage": "16",
+                "stadium": "Dallas Stadium",
+                "goals": [
+                    [],
+                    ["90+1' Mikel Merino"]
+                ],
+                "redCards": [
+                    [],
+                    []
+                ]
+            },
+            {
+                "team1": "USA",
+                "team2": "Belgium",
+                "score": "1-4",
+                "date": "6 July 2026",
+                "stage": "16",
+                "stadium": "Seattle Stadium",
+                "goals": [
+                    ["31' Malik Tillman"],
+                    ["9',33' Charles De Ketelaere", "57' Hans Vanaken", "90+3' Romelu Lukaku"]
+                ],
+                "redCards": [
+                    [],
+                    []
+                ]
             }
         ]
     },
@@ -1572,10 +1636,10 @@
     "qualified8": [
         "Morocco",
         "France",
-        "null",
-        "null",
-        "null",
-        "null",
+        "Belgium",
+        "Spain",
+        "Norway",
+        "England",
         "null",
         "null"
     ],
