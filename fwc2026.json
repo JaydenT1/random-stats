@@ -88,8 +88,8 @@
                 "stadium": "Mexico City Stadium",
                 "goals": [
                     [
-                        "9' Julian Quinones",
-                        "67' Raul Jimenez"
+                        "9' Julián Quiñones",
+                        "67' Raúl Jiménez"
                     ],[]
                 ],
                 "redCards": [
@@ -110,8 +110,8 @@
                         "8 Alvaro Fidalgo",
                         "26 Brian Gutierrez",
                         "25 Roberto alvarado",
-                        "9 Raul Jimenez",
-                        "16 Julian Quinones"
+                        "9 Raúl Jiménez",
+                        "16 Julián Quiñones"
                     ],
                     "5-3-2":[
                         "1 Ronwen Williams",
@@ -147,8 +147,8 @@
                     "6 Erik Lira",
                     "8 Alvaro Fidalgo",
                     "26 Brian Gutierrez",
-                    "9 Raul Jimenez",
-                    "16 Julian Quinones",
+                    "9 Raúl Jiménez",
+                    "16 Julián Quiñones",
                     "6 Aubrey Modiba",
                     "23 Jayden Adams",
                     "15 Iqraam Rayners",
@@ -602,7 +602,7 @@
                 "date": "19 June 2026",
                 "stadium": "Philadelphia Stadium",
                 "goals": [
-                    ["23',36' Matheus Cunha", "45+3' Vinicius Junior"],
+                    ["23',36' Matheus Cunha", "45+3' Vinícius Júnior"],
                     []
                 ],
                 "redCards": [
@@ -722,7 +722,7 @@
                 "date": "21 June 2026",
                 "stadium": "Miami Stadium",
                 "goals": [
-                    ["44' Maxi Araujo", "45+6' Agustin Canobbio"],
+                    ["44' Maximiliano Araújo", "45+6' Agustin Canobbio"],
                     ["21' Kevin Pina", "61' Helio Varela"]
                 ],
                 "redCards": [
@@ -738,7 +738,7 @@
                 "stadium": "BC Place Vancouver",
                 "goals": [
                     ["15' Finn Surman"],
-                    ["58' Mostafa Zico", "67' Mohamed Salah", "82' Trezeguet"]
+                    ["58' Mostafa Ziko", "67' Mohamed Salah", "82' Trezeguet"]
                 ],
                 "redCards": [
                     [],
@@ -767,7 +767,7 @@
                 "date": "22 June 2026",
                 "stadium": "Philadelphia Stadium",
                 "goals": [
-                    ["14',54' Kylian Mbappe", "66' Ousmane Dembele"],
+                    ["14',54' Kylian Mbappé", "66' Ousmane Dembele"],
                     []
                 ],
                 "redCards": [
@@ -857,7 +857,7 @@
                 "date": "23 June 2026",
                 "stadium": "Guadalajara Stadium",
                 "goals": [
-                    ["76' Daniel Munoz"],
+                    ["76' Daniel Muñoz"],
                     []
                 ],
                 "redCards": [
@@ -903,7 +903,7 @@
                 "stadium": "Miami Stadium",
                 "goals": [
                     [],
-                    ["7',45+3' Vinicius Junior", "60' Matheus Cunha"]
+                    ["7',45+3' Vinícius Júnior", "60' Matheus Cunha"]
                 ],
                 "redCards": [
                     [],
@@ -933,7 +933,7 @@
                 "stadium": "Mexico City Stadium",
                 "goals": [
                     [],
-                    ["55' Mateo Chavez", "61' Julian Quinones", "90+4' Alvaro Fidalgo"]
+                    ["55' Mateo Chavez", "61' Julián Quiñones", "90+4' Alvaro Fidalgo"]
                 ],
                 "redCards": [
                     [],
@@ -1203,7 +1203,7 @@
                 "stadium": "Kansas City Stadium",
                 "goals": [
                     ["45' Rafik Belghali", "60',90+3' Riyad Mahrez"],
-                    ["28' Marko Arnautovic", "55' Marcel Sabitzer", "90+6' Sasa Kalajdzic"]
+                    ["28' Marko Arnautović", "55' Marcel Sabitzer", "90+6' Sasa Kalajdzic"]
                 ],
                 "redCards": [
                     [],
@@ -1315,7 +1315,7 @@
                 "stage": "32",
                 "stadium": "New York/New Jersey Stadium",
                 "goals": [
-                    ["45',74' Kylian Mbappe", "53' Bradley Barcola"],
+                    ["45',74' Kylian Mbappé", "53' Bradley Barcola"],
                     []
                 ],
                 "redCards": [
@@ -1331,7 +1331,7 @@
                 "stage": "32",
                 "stadium": "Mexico City Stadium",
                 "goals": [
-                    ["22' Julian Quinones", "31' Raul Jimenez"],
+                    ["22' Julián Quiñones", "31' Raúl Jiménez"],
                     []
                 ],
                 "redCards": [
@@ -1508,7 +1508,7 @@
                 "stadium": "Philadelphia Stadium",
                 "goals": [
                     [],
-                    ["(P)70' Kylian Mbappe"]
+                    ["(P)70' Kylian Mbappé"]
                 ],
                 "redCards": [
                     [],
