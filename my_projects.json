@@ -1,0 +1,16 @@
+{
+  {
+    "name": "Vacay Time Blog",
+    "genre": "blog/guide",
+    "languages": "HTML,CSS,JavaScript,XML",
+    "dateCreated": "1st April 2026",
+    "url": "https://vacaytimes.blogspot.com"
+  },
+  {
+    "name": "FIFA World Cup 26 Stats",
+    "genre": "data visualisation",
+    "languages": "HTML,CSS,JavaScript",
+    "dateCreated": "1st July 2026",
+    "url": "https://fwcstats.pages.dev"
+  }
+}
