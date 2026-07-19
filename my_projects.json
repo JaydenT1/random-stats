@@ -1,15 +1,13 @@
 {
-  "projects":{
-    {
-      "name": "Vacay Time Blog",
+  "projects": {
+    "Vacay Time Blog": {
       "genre": "blog/guide",
       "languages": "HTML,CSS,JavaScript,XML",
       "dateCreated": "1st April 2026",
       "url": "https://vacaytimes.blogspot.com",
       "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6WDHAjqFN-HZRitSvxsayBgbUKCKsTWCsnru7ow8Fct6wd4P6y2a-pAVTF2zUgqZ1rwqb6ULA-9ki7aDVW0DDVtTwZCagGoJE-pI0ZhF646u_qXXpS_wG8WOoKmXZtflLXCNv8QMyGX2zZWmGfEnW1pUJcOnovz4j0IdBQYnZC_X8cE/s1600/vacaytime_logo.png"
     },
-    {
-      "name": "FIFA World Cup 26 Stats",
+    "FIFA World Cup 26 Stats": {
       "genre": "data visualisation",
       "languages": "HTML,CSS,JavaScript",
       "dateCreated": "1st July 2026",
