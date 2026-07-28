@@ -28,3 +28,4 @@
       "restrictions": "At least 2 distinct digits. This tool only checks for 3-digit and 4-digit numbers because for every numbers of other digit lengths, they either collapse to zero or get trapped in complex multi-number loops."
   }
 }
+}
