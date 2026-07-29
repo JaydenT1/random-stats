@@ -18,20 +18,31 @@
   "tools": {
     "Pronic Number Checker": {
       "icon": "n(n+1)",
+      "fname": "isPronic",
       "description": "This tool checks if a number provided is a pronic number. A pronic number, also called an oblong number or heteromecic number, is equal to the product of two consecutive whole numbers: /n x (n + 1)/",
       "dateCreated": "28th July 2026",
       "inputs": [
-        ["number", "Enter a number:"]
+        ["type='number' step='1' required", "Enter a number:"]
       ]
     },
     "Kaprekar's Routine": {
       "icon": "6174",
+      "fname": "kaprekar",
       "description": "Kaprekar's Routine is a mathematical process that repeatly rearranging digits from largest to smallest and smallest to largest, then subtracting the smaller number from the larger number. This loop always ends at the number 495 (for 3-digit numbers) or 6174 (for 4-digit numbers)",
       "dateCreated": "28th July 2026",
       "restrictions": "At least 2 distinct digits. This tool only checks for 3-digit and 4-digit numbers because for every numbers of other digit lengths, they either collapse to zero or get trapped in complex multi-number loops.",
       "inputs": [
-        ["number", "Enter a 3-digit or 4-digit number with at least 2 distinct digits:"]
+        ["type='number' step='1' min='100' max='9998' required", "Enter a 3-digit or 4-digit number:"]
       ]
-  }
+  },
+    "Palindrome Checker": {
+      "icon": "uwu",
+      "fname": "palindrome",
+      "description": "A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.",
+      "dateCreated": "29th July 2026",
+      "inputs":[
+        ["type='text' required", "Enter some texts:"]
+      ]
+    }
 }
 }
