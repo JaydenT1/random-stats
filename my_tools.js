@@ -3,11 +3,11 @@ export function kaprekar(n){
   let steps = []
   const digits = String(n).length
 
-  //3-digit and 4-digit only
-  if (digits != 3 && digits != 4){
-    return ["<p>This tool only checks for 3-digit and 4-digit numbers because for every numbers of other digit lengths, they either collapse to zero or get trapped in complex multi-number loops.</p>", false]
+  //check if all digits are the same
+  if (String(n).split(String(n)[0]).length - 1 >= digits){
+    return [`All of the digits in ${n} are the same, so the routine will always end in 0.`, false]
   }
-
+  
   let target = 495
   target = digits == 4 ? 6174 : target
   
@@ -30,9 +30,9 @@ export function kaprekar(n){
   //format result
   let result = ""
   for (let step of steps){
-    result += `<p>${step}</p>`
+    result += `${step}\n`
   }
-  result += `<p>It takes ${count} routines to reach the Kaprekar's constant ${target}.</p>`
+  result += `It takes ${count} routines to reach the Kaprekar's constant ${target}.`
   return [result, true]
 }
 
@@ -79,4 +79,29 @@ export function palindrome(str) {
   } else {
     return [`${str} is not a palindrome`, false]
   }
+}
+
+export function factorial(n) {
+  let product = n
+  let result = `${n}! = ${n}`
+
+  if (n == 0){
+    result += `\n0! returns 0 due to the pattern of factorials.` +
+      "\nSince the formula for factorial is //n! = n(n-1)!//, we would reverse the formula to find a lower factorial:" +
+      "\n//(n-1)! = n!/n//"+
+      "\nIf we subsitute 1 into the formula above, we can find the factorial of 0:" +
+      "\n//0! = 1!/1 = 1//"
+
+    return [result, true]
+  }
+  
+  for (let i = n - 1; i > 0; i--){
+    product *= i
+    result += ` x ${i}`
+  }
+  
+  result += n == 1 ? ` x 1` : ""
+  result += `\n = ${product}`
+
+  return [result, true]
 }
