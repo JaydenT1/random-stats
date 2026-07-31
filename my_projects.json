@@ -19,7 +19,7 @@
     "Pronic Number Checker": {
       "icon": "n(n+1)",
       "fname": "isPronic",
-      "description": "This tool checks if a number provided is a pronic number. A pronic number, also called an oblong number or heteromecic number, is equal to the product of two consecutive whole numbers: /n x (n + 1)/",
+      "description": "This tool checks if a number provided is a pronic number. A pronic number, also called an oblong number or heteromecic number, is equal to the product of two consecutive whole numbers: //n x (n + 1)//",
       "dateCreated": "28th July 2026",
       "inputs": [
         ["type='number' step='1' required", "Enter a number:"]
@@ -42,6 +42,15 @@
       "dateCreated": "29th July 2026",
       "inputs":[
         ["type='text' required", "Enter some texts:"]
+      ]
+    },
+    "Factorial Calculator": {
+      "icon": "n!",
+      "fname": "factorial",
+      "description": "A factorial is the product of all positive integers less than or equal to non-negative integer n.",
+      "dateCreated": "30th July 2026",
+      "inputs":[
+        ["type='number' step='1' min='0' required", "Enter a number:"]
       ]
     }
 }
