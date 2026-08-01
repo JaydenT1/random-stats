@@ -52,6 +52,16 @@
       "inputs":[
         ["type='number' step='1' min='0' required", "Enter a number:"]
       ]
+    },
+    "Morse Code Translator": {
+      "icon": ".-.",
+      "fname": "morseCode",
+      "description": "Morse Code encodes texts in dots and dashes.",
+      "dateCreated": "1st August 2026",
+      "inputs": [
+        ["type='text' required", "Enter either morse code or text:"],
+        ["type='text' pattern='code|text' required", "State the input type: (code/text)"]
+      ]
     }
 }
 }
