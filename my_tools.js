@@ -105,3 +105,70 @@ export function factorial(n) {
 
   return [result, true]
 }
+
+export function morseCode(input, inputType) {
+  const morse = {
+    ".-": "A", "-.": "N",
+    "-...": "B", "---": "O",
+    "-.-.": "C", ".--.": "P",
+    "-..": "D", "--.-": "Q",
+    ".": "E", ".-.": "R",
+    "..-.": "F", "...": "S",
+    "--.": "G", "-": "T",
+    "....": "H", "..-": "U",
+    "..": "I", "...-": "V",
+    ".---": "J", ".--": "W",
+    "-.-": "K", "-..-": "X",
+    ".-..": "L", "-.--": "Y",
+    "--": "M", "--..": "Z",
+    ".----": "1", "..---": "2",
+    "...--": "3", "....-": "4",
+    ".....": "5", "-....": "6",
+    "--...": "7", "---..": "8",
+    "----.": "9", "-----": "0"
+  }
+  let result = ""
+  
+  if (inputType == "code"){
+    //code to chars
+    input = input.split(" ")
+    let lastChar = ""
+    
+    for (let c of input){
+      //non-morse code
+      if (!morse.hasOwnProperty(c)){
+        if (lastChar != ""){
+          lastChar = ""
+          result += " "
+          continue
+        }
+      }
+      lastChar = c
+      result += morse[c]
+    }
+  } else {
+    //chars to code
+    input = input.split("")
+    let lastChar = ""
+    
+    loop1: for (let c of input){
+      for (let [k,v] of Object.entries(morse)){
+        //find the code for char
+        if (c.toUpperCase() == v){
+          lastChar = c
+          result += k + " "
+          continue loop1
+        }
+      }
+      //no code found
+      if (lastChar != ""){
+        lastChar = ""
+        result += " "
+      } 
+    }
+    
+    result = result.trim()
+  }
+
+  return [result, true]
+}
