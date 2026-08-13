@@ -172,3 +172,14 @@ export function morseCode(input, inputType) {
 
   return [result, true]
 }
+
+export function fibonacci(num1, num2, length){
+  let result = [num1, num2]
+  
+  for (let i = 1; i < length - 1; i++){
+    let nextNum = result[i] + result[i-1]
+    result.push(nextNum)
+  }
+
+  return [result.slice(0,length), true];
+}
