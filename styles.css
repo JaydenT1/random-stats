@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+:root {
+    --theme-color: rgb(143, 187, 153);
+    --theme-color2: rgb(80, 124, 105);
+    --theme-color3: rgb(56, 85, 72);
+}
+
+body {
+    background-color: var(--theme-color);
+    display: flex; flex-direction: column;
+    min-height: 100dvh;
+}
+
+header {
+    background: linear-gradient(var(--theme-color), var(--theme-color2) 80%);
+    color: white;
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgb(34, 99, 18);
+}
+
+h1 {font-size: 1.5rem;}
+
+nav ul {
+    display: flex;
+    margin: 0;
+    list-style-type: none;
+    justify-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+hr {
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+/*Passion*/
+#passion {
+    background: linear-gradient(rgb(20,20,20), rgb(40,40,40), rgb(20,20,20));
+    color: white;
+    margin: 0;
+    padding: 40px 60px;
+    line-height: 100px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+#passion_screen {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 0.9rem;
+    border: 2px solid rgb(120, 120, 120);
+    padding: 10px;
+
+}
+
+/*About*/
+#about {
+    text-align: center;
+}
+
+#projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 20px 10%;
+    gap: 20px;
+}
+
+.project {
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding: 10px 20px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.project img {height: 50px;}
+.project figure {width: 50px;}
+.project p:first-of-type {text-wrap: nowrap; font-weight: bold;}
+.project p:last-of-type {margin-left: auto;}
+.genre-tag {border-radius: 5px; text-wrap: nowrap; padding: 3px;}
+.project:hover {
+   background-color: rgb(160, 160, 160);
+}
+
+#project-overlay-container {
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0%;
+}
+
+#project-overlay{
+    background: linear-gradient(120deg, var(--theme-color2), var(--theme-color));
+    box-shadow: 3px 3px 3px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    padding: 20px;
+
+    width: 20%;
+    height: 30%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15% auto;
+}
+
+#project-close-btn {
+    align-self: flex-start;
+    background: none;
+    cursor: pointer;
+    border: none;
+    font-size: 1.2rem;
+}
+
+#project-overlay > div {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    gap: 50px;
+}
+
+.project-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 0;
+    gap: 10px; 
+}
+
+.project-details p:first-of-type {font-weight: bold;}
+.project-details a {color: black; border: 2px solid; box-shadow: 2px 2px; padding: 5px; border-radius: 5px;}
+.project-details a:hover {background-color: rgba(0,0,0,0.1);}
+.external-icon {height: 20px !important; background: var(--theme-color);}
+
+#project-overlay img {
+    height: 100px;
+}
+
+#project-overlay a {
+    text-decoration: none;
+}
+
+/*
+================TOOlS.html===================
+*/
+
+#tools-section {display: flex; height: 100vh;}
+
+#tools-section h2 {background-color: var(--theme-color2); color: white;text-align: center; padding: 20px 0;}
+
+#tools-selection {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: var(--theme-color2);
+    color: white;
+}
+
+.tool {display: flex; align-items: center; gap: 10px; border-bottom: 1px solid; cursor: pointer; padding: 5px;}
+.tool:hover {background-color: var(--theme-color3);}
+.tool p:first-child {background-color: white; border-radius: 30px;padding: 3px; color: var(--theme-color2);}
+
+#tool-display {padding: 20px; width: 80%;}
+#tool-name {font-size: 1.5rem; font-weight: bold;}
+#tool-result {background-color: rgb(200,200,200); padding: 10px;}
+
+.formula {font-family: 'Times New Roman', Times, serif; font-weight: bold;}
+
+footer {
+    padding: 20px 50px;
+    margin-top: auto;
+    background-color: var(--theme-color2);
+    color: azure;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 60px
+    
+}
+
+footer a {
+    color: white;
+}
+
+@media (max-width:767px) {
+    header {
+        padding: 10px 20px;
+    }
+
+    h1 {
+        font-size: 1.2rem;
+    }
+
+    #nav ul {
+        gap: 5px
+    }
+
+    #nav a {
+        font-size: 1rem;
+    }
+
+    #passion {
+        flex-direction: column;
+        font-size: 2rem;
+        line-height: 50px;
+    }
+    #passion p br{display: none;}
+    #passion_with::before {content: " ";}
+
+    #passion_screen {
+        width: 300px;
+        height: 100px;
+    }
+
+    #projects {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #projects img {
+        height: 50px;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+}
+
+@media (min-width:768px) {
+    nav ul {
+        gap: 20px
+    }
+
+    nav a {
+        font-size: 1.2rem;
+    }
+
+    #passion {
+        flex-direction: row;
+        font-size: 3rem;
+        text-wrap: nowrap;
+        justify-content: center;
+        gap: 80px
+    }
+
+    #passion_screen {
+        width: 300px;
+        height: 150px;
+        line-height: 20px;
+    }
+}
